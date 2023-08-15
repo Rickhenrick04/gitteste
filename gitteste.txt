@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Novas funcionalidades para o código
+=======
+se loko cacho
+Teste meus amigos 
+ola meus amigos 
+
+sndnasd
+>>>>>>> 770f249ff6ea660b9c31a401e705b6f1f4ec8e7b
